@@ -1,0 +1,8 @@
+
+
+
+void RCC(void)
+{
+	int x=9;
+	int y=0;
+}
